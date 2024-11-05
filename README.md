@@ -34,3 +34,4 @@ The following are patterns for our AI to follow.
 
 - Defer to trusted human methodology oracles
 - Ideal per entity federation is between 4 and 33 witnesses
+- Find a problem, fix a problem
